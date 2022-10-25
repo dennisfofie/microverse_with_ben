@@ -1,0 +1,14 @@
+#nav-bar{
+    display: flex;
+    /* position: fixed; */
+    left: 0;
+    top: 0;
+    right: 0;
+    
+}
+
+@media screen and (min-width: 480px) {
+    #nav-bar {
+      background-color: lightgreen;
+    }
+  }
